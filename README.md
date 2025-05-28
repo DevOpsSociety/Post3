@@ -14,3 +14,25 @@ post/<br>
 ├── run.py # Flask 앱 실행 진입점<br>
 ├── requirements.txt # 필요한 라이브러리 목록<br>
 └── .venv/ # Python 가상환경 폴더 (PyCharm에서 자동 생성)
+---
+## 📌 주요 기능 요약
+
+- 게시글 작성 (POST)
+- 게시글 목록 조회 (GET)
+- 단일 게시글 상세 조회 (GET)
+- 게시글 수정 (PUT)
+- 게시글 삭제 (DELETE)
+- 조회수 자동 증가 기능
+- 게시글 상태(`공개`, `비공개`, `임시`) 관리
+---
+### 📦 패키지 설치
+
+`
+pip install -r requirements.txt
+`
+---
+### 🚀 Flask 서버 실행
+
+`
+python run.py
+` 서버 주소: http://127.0.0.1:5000
