@@ -22,6 +22,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
+```markdown
 # Github
 
 git remote, git remote -v 정보 보기 
@@ -55,4 +56,5 @@ git push origin <브랜치> <- 이러면 이제 깃허브에 올라감
 git branch <- 브랜치 목록
 
 git branch 승준짱 
-git checkout 승준짱 
+git checkout 승준짱
+```
