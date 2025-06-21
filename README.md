@@ -60,3 +60,4 @@ git branch <- 브랜치 목록
 git branch 승준짱 
 git checkout 승준짱
 ```
+# 변경 됩니다
