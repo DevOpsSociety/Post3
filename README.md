@@ -47,6 +47,9 @@
 > **Flask + FastAPI** 스터디 산출물  
 > 게시글 CRUD, 조회수 증가, 상태 관리 기능이 포함된 **블로그 서비스**입니다.
 
+# 저장소
+https://github.com/chuawj/fast_api/tree/seungjun?tab=readme-ov-file
+
 ---
 
 ## 📁 프로젝트 구조
@@ -106,8 +109,6 @@ git merge master 후 충돌 파일 확인
 git add <파일> → git commit -m "merge: 충돌 해결"
 
 ```
-# 저장소
-https://github.com/chuawj/fast_api/tree/seungjun?tab=readme-ov-file
 
 # 스터디 회고
 
